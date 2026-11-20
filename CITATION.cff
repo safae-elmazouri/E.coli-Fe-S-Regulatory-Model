@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "El Mazouri"
+  given-names: "Safae"
+  orcid: "https://orcid.org/0000-0002-5370-0217"
+title: "E.coli-Fe-S-Regulatory-Model"
+repository-code: "https://github.com/safae-elmazouri/E.coli-Fe-S-Regulatory-Model"
+
+license: MIT
